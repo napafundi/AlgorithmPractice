@@ -11,4 +11,5 @@ Python tests are written using unittest.
 #### Javascript
 Javascript tests are written using Node.js
 - It's required that you have Node.js and npm installed and added to your PATH before running the tests.
+- Before running the tests, from within the directory, run "npm install" to install the required modules.
 - To run the tests, change into the respective Javascript directory and run 'npm test' from the command line.
