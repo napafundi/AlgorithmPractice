@@ -1,4 +1,4 @@
-# AlgorithmPractice
+# Algorithm Practice
 Practice algorithms from popular websites such as HackerRank and CodeWars. Written in Java, JavaScript, and Python.
 
 #### Java
