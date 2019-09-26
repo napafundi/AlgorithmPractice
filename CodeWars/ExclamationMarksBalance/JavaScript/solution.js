@@ -27,4 +27,4 @@ function balance(left,right){
     }
   }
 
-  module.exports = { balance }
+module.exports = { balance }
